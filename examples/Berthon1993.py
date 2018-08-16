@@ -13,15 +13,7 @@
 #   using the Python package modelbase and the label model specified in 
 #   pppmodel/LabelPPPmodel.py
 ###############################################################################
-
-
-
-
-
-'H. A. Berthon, W. A. Bubb, and P. W. Kuchel. 13C n.m.r.                      \
-isotopomer and computer-simulation studies of the non-oxidative pen-          \
-tose phosphate pathway of human erythrocytes. Biochemical Journal,            \
-296(2):379–387, Dec. 1993.'                                                   
+                                               
 
 
 import modelbase
