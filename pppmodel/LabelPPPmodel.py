@@ -1,3 +1,14 @@
+###############################################################################
+#   author: Tim Nies
+#   license: GPL3 (you should have obtained a copy by downloading this package)   
+#   name: LabelPPPmodel.py
+#
+#   Reimplemention and expansion of the basic model contained in PPPmodel.py to
+#   a system that is able to simulate labelings in metabolic pathways using the
+#   modelbase
+###############################################################################
+
+
 import modelbase
 import pppmodel
 

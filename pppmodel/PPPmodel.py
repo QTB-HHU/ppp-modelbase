@@ -1,3 +1,12 @@
+###############################################################################
+#   author: Tim Nies
+#   license: GPL3 (you should have obtained a copy by downloading this package)   
+#   name: PPPmodel.py
+#
+#   Implementation of the basic F-type non-oxidative pentose phosphate pathway 
+#   model originally proposed by McIntyre et al. (1989).
+###############################################################################
+
 #BASIC MODEL FROM MCINTYRE ET AL. (1989)
 
 class PPP(object):

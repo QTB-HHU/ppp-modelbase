@@ -1,3 +1,16 @@
+###############################################################################
+#   author: Tim Nies
+#   license: GPL3 (you should have obtained a copy by downloading this package)   
+#   name: simulate.py
+#
+#   methods for simulating the basic model contained in PPPmodel (without modelbase).
+#   The modelbase was used to simulate the expanded model see LabelPPPmodel.py
+#   and examples/Berthon1993.py
+###############################################################################
+
+
+
+
 import numpy as np
 import scipy.integrate as scp
 import pppmodel

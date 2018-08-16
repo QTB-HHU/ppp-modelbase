@@ -1,3 +1,23 @@
+###############################################################################
+#   author: Tim Nies
+#   license: GPL3 (you should have obtained a copy by downloading this package)   
+#   name: Berthon1993.py
+#
+#   Reproduction of some figures of
+
+#   H. A. Berthon, W. A. Bubb, and P. W. Kuchel. 13C n.m.r.                      
+#   isotopomer and computer-simulation studies of the non-oxidative pentose 
+#   phosphate pathway of human erythrocytes. Biochemical Journal,            
+#   296(2):379–387, Dec. 1993.'
+#
+#   using the Python package modelbase and the label model specified in 
+#   pppmodel/LabelPPPmodel.py
+###############################################################################
+
+
+
+
+
 'H. A. Berthon, W. A. Bubb, and P. W. Kuchel. 13C n.m.r.                      \
 isotopomer and computer-simulation studies of the non-oxidative pen-          \
 tose phosphate pathway of human erythrocytes. Biochemical Journal,            \

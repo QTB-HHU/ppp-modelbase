@@ -7,7 +7,7 @@ setup(name='pppmodel',
       url='https://github.com/QTB-HHU/ppp-modelbase',
       author = 'Tim Nies',
       author_email = 'Tim.Nies@hhu.de',
-      license = 'GPL4',
+      license = 'GPL3',
       packages = ['pppmodel'],
       intsall_require=[
           'modelbase',
