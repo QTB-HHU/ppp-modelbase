@@ -10,7 +10,7 @@ The folder pppmodel contains the basic model of the non-oxidative pentose phosph
 
 However, the reimplementation of this basic model and its expansion to a system that is able to simulate the dynamics of labels using the Python package "modelbase" is shown in the file "LabelPPPmodel.py".
 
-In the folder "examples" you can find a file, "Berthon.py", for the reproduction of some figures of Berthon et al. (1993).
+In the folder "examples" you can find a file, "Berthon1993.py", for the reproduction of some figures of Berthon et al. (1993).
 
 Please execute the file "Berthon1993.py" after  installing the Python package modelbase and all its dependencies as well as the package contained in this repository (Installation, see above).
  
