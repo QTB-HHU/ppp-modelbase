@@ -1,6 +1,6 @@
 # pppmodel
 
-pppmodel is a reimplementation of a model orginally proposed by McIntyre et al. (1989) describing a F-type non-oxidative pentose phosphate pathway in erythrocytes. Later this model was adapted by Berthon et al. (1993) for the in silico replication of NMR studies.
+pppmodel is a reimplementation of a model orginally proposed by McIntyre et al. (1989) describing the F-type non-oxidative pentose phosphate pathway in erythrocytes. Later this model was adapted by Berthon et al. (1993) for the in silico replication of NMR studies.
 
 Install with pip install -e .
 
